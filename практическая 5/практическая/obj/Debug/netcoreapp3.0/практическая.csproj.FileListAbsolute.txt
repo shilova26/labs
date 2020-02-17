@@ -1,0 +1,22 @@
+C:\Users\lenovo\source\repos\практическая\практическая\bin\Debug\netcoreapp3.0\практическая.exe
+C:\Users\lenovo\source\repos\практическая\практическая\bin\Debug\netcoreapp3.0\практическая.deps.json
+C:\Users\lenovo\source\repos\практическая\практическая\bin\Debug\netcoreapp3.0\практическая.runtimeconfig.json
+C:\Users\lenovo\source\repos\практическая\практическая\bin\Debug\netcoreapp3.0\практическая.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\практическая\практическая\bin\Debug\netcoreapp3.0\практическая.dll
+C:\Users\lenovo\source\repos\практическая\практическая\bin\Debug\netcoreapp3.0\практическая.pdb
+C:\Users\lenovo\source\repos\практическая\практическая\obj\Debug\netcoreapp3.0\практическая.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\практическая\практическая\obj\Debug\netcoreapp3.0\практическая.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\практическая\практическая\obj\Debug\netcoreapp3.0\практическая.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\практическая\практическая\obj\Debug\netcoreapp3.0\практическая.dll
+C:\Users\lenovo\source\repos\практическая\практическая\obj\Debug\netcoreapp3.0\практическая.pdb
+C:\Users\lenovo\Desktop\программирование\практическая 5\практическая\bin\Debug\netcoreapp3.0\практическая.exe
+C:\Users\lenovo\Desktop\программирование\практическая 5\практическая\bin\Debug\netcoreapp3.0\практическая.deps.json
+C:\Users\lenovo\Desktop\программирование\практическая 5\практическая\bin\Debug\netcoreapp3.0\практическая.runtimeconfig.json
+C:\Users\lenovo\Desktop\программирование\практическая 5\практическая\bin\Debug\netcoreapp3.0\практическая.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\программирование\практическая 5\практическая\bin\Debug\netcoreapp3.0\практическая.dll
+C:\Users\lenovo\Desktop\программирование\практическая 5\практическая\bin\Debug\netcoreapp3.0\практическая.pdb
+C:\Users\lenovo\Desktop\программирование\практическая 5\практическая\obj\Debug\netcoreapp3.0\практическая.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\программирование\практическая 5\практическая\obj\Debug\netcoreapp3.0\практическая.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\программирование\практическая 5\практическая\obj\Debug\netcoreapp3.0\практическая.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\программирование\практическая 5\практическая\obj\Debug\netcoreapp3.0\практическая.dll
+C:\Users\lenovo\Desktop\программирование\практическая 5\практическая\obj\Debug\netcoreapp3.0\практическая.pdb
