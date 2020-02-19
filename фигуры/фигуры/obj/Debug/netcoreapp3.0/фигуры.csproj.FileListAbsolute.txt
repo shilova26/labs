@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\программирование\фигуры\фигуры\bin\Debug\netcoreapp3.0\фигуры.exe
+C:\Users\lenovo\Desktop\программирование\фигуры\фигуры\bin\Debug\netcoreapp3.0\фигуры.deps.json
+C:\Users\lenovo\Desktop\программирование\фигуры\фигуры\bin\Debug\netcoreapp3.0\фигуры.runtimeconfig.json
+C:\Users\lenovo\Desktop\программирование\фигуры\фигуры\bin\Debug\netcoreapp3.0\фигуры.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\программирование\фигуры\фигуры\bin\Debug\netcoreapp3.0\фигуры.dll
+C:\Users\lenovo\Desktop\программирование\фигуры\фигуры\bin\Debug\netcoreapp3.0\фигуры.pdb
+C:\Users\lenovo\Desktop\программирование\фигуры\фигуры\obj\Debug\netcoreapp3.0\фигуры.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\программирование\фигуры\фигуры\obj\Debug\netcoreapp3.0\фигуры.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\программирование\фигуры\фигуры\obj\Debug\netcoreapp3.0\фигуры.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\программирование\фигуры\фигуры\obj\Debug\netcoreapp3.0\фигуры.dll
+C:\Users\lenovo\Desktop\программирование\фигуры\фигуры\obj\Debug\netcoreapp3.0\фигуры.pdb
