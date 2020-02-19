@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\меню\меню\bin\Debug\netcoreapp3.0\меню.exe
+C:\Users\lenovo\source\repos\меню\меню\bin\Debug\netcoreapp3.0\меню.deps.json
+C:\Users\lenovo\source\repos\меню\меню\bin\Debug\netcoreapp3.0\меню.runtimeconfig.json
+C:\Users\lenovo\source\repos\меню\меню\bin\Debug\netcoreapp3.0\меню.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\меню\меню\bin\Debug\netcoreapp3.0\меню.dll
+C:\Users\lenovo\source\repos\меню\меню\bin\Debug\netcoreapp3.0\меню.pdb
+C:\Users\lenovo\source\repos\меню\меню\obj\Debug\netcoreapp3.0\меню.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\меню\меню\obj\Debug\netcoreapp3.0\меню.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\меню\меню\obj\Debug\netcoreapp3.0\меню.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\меню\меню\obj\Debug\netcoreapp3.0\меню.dll
+C:\Users\lenovo\source\repos\меню\меню\obj\Debug\netcoreapp3.0\меню.pdb
