@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\игровой автомат\игровой автомат\bin\Debug\игровой автомат.exe.config
+C:\Users\lenovo\source\repos\игровой автомат\игровой автомат\bin\Debug\игровой автомат.exe
+C:\Users\lenovo\source\repos\игровой автомат\игровой автомат\bin\Debug\игровой автомат.pdb
+C:\Users\lenovo\source\repos\игровой автомат\игровой автомат\obj\Debug\игровой автомат.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\игровой автомат\игровой автомат\obj\Debug\игровой_автомат.Form1.resources
+C:\Users\lenovo\source\repos\игровой автомат\игровой автомат\obj\Debug\игровой_автомат.Form2.resources
+C:\Users\lenovo\source\repos\игровой автомат\игровой автомат\obj\Debug\игровой_автомат.Properties.Resources.resources
+C:\Users\lenovo\source\repos\игровой автомат\игровой автомат\obj\Debug\игровой автомат.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\игровой автомат\игровой автомат\obj\Debug\игровой автомат.exe
+C:\Users\lenovo\source\repos\игровой автомат\игровой автомат\obj\Debug\игровой автомат.pdb
